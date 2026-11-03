@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammed Ragab Hussein
 
-💻 Full Stack Developer | Angular • .NET • SQL Server  
+💻 Full Stack Developer | Angular | React • .NET • SQL Server  
 🚀 Building scalable web apps with clean architecture
 
 ---
