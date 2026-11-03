@@ -62,7 +62,7 @@ I specialize in building **modern Angular frontends** and **powerful ASP.NET Cor
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ragab-a755b8364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-ragab-hussein/?skipRedirect=true&contentTrackingId=w7UCDPWuSK2SuO%2Fc69mEMw%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text%3ANav%3AIn-Product)
 
 📧 mohamedragabh1712000@gmail.com
 
